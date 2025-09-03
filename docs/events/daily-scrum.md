@@ -1,4 +1,4 @@
-[🏠 トップ](../../README.md) / [イベント](../events/README.md) / デイリースクラム
+[🏠 トップ](/README.md) / [イベント](/docs/events/README.md) / デイリースクラム
 
 # デイリースクラム運用ガイド
 
@@ -35,4 +35,4 @@
 - **レビューやペア作業が即割り当て**られる
 - スプリント後半での **スコープ調整の意思決定が早い**
 
-[デイリースクラムチェックリスト](checklists/daily-scrum.md)
+[デイリースクラムチェックリスト](/docs/checklists/daily-scrum.md)
