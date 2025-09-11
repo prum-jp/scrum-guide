@@ -1,6 +1,12 @@
-### [ミーティング運用ガイド](/docs/meating-guide.md)
-## イベント
-  - [デイリースクラム運用ガイド](/docs/events/daily-scrum.md)
-## チェックリスト
-  - [デイリースクラムチェックリスト](/docs/checklists/daily-scrum.md)
+# スクラムガイド
 
+[ミーティング運用ガイド](/docs/meating-guide.md)
+
+## イベント
+
+- [デイリースクラム運用ガイド](/docs/events/daily-scrum.md)
+- [プロダクトバックログリファインメント運用ガイド](/docs/events/refinement.md)
+
+## チェックリスト
+
+- [デイリースクラムチェックリスト](/docs/checklists/daily-scrum.md)
