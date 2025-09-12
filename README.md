@@ -6,6 +6,7 @@
 
 - [デイリースクラム運用ガイド](/docs/events/daily-scrum.md)
 - [プロダクトバックログリファインメント運用ガイド](/docs/events/refinement.md)
+- [スプリントレビュー運用ガイド](/docs/events/review.md)
 
 ## チェックリスト
 
